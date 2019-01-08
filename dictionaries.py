@@ -25,4 +25,20 @@ print(person.items())
 
 # Copy dictionary
 person2 = person.copy()
-print(person2)
+
+# Delete item
+person.pop('phone')
+
+# List of dicitionaries
+people = [
+    {
+        'name': 'Martha',
+        'age': 24
+    },
+    {
+        'name': 'Kevin',
+        'age': 26
+    }
+]
+
+print(people)
