@@ -7,7 +7,7 @@ fruits2 = tuple(('Apples', 'Mangos', 'Bananas'))
 # Get value
 print(fruits[1])
 
-# Can't changge values - example: fruits[0] = 'Whatever'
+# Can't change values - example: fruits[0] = 'Whatever'
 
 # Sets
 fruits_set = {'Apples', 'Mangos', 'Bananas'}
